@@ -1,0 +1,35 @@
+{
+    "gemini": {
+        "base_url": "https://vip.dmxapi.com/v1",
+        "api_version": "", 
+        "api_key": "sk-nxTM7Y4jqlxkDz2BQcoZEhlUd3S3CBOEzlVckl1GdWcM4Lol", 
+        "model": "gemini-2.5-pro"
+    },
+    "gpt-41": {
+        "base_url": "https://vip.dmxapi.com/v1",
+        "api_version": "2024-03-01-preview", 
+        "api_key": "sk-nxTM7Y4jqlxkDz2BQcoZEhlUd3S3CBOEzlVckl1GdWcM4Lol",
+        "model": "gpt-4o" 
+    },
+    "gpt5": {
+        "base_url": "https://vip.dmxapi.com/v1",
+        "api_version": "",
+        "api_key": "sk-nxTM7Y4jqlxkDz2BQcoZEhlUd3S3CBOEzlVckl1GdWcM4Lol",
+        "model": "gpt-5"
+    },
+    "claude": {
+      "base_url": "https://vip.dmxapi.com/v1",
+        "api_version": "...",
+        "api_key": "sk-nxTM7Y4jqlxkDz2BQcoZEhlUd3S3CBOEzlVckl1GdWcM4Lol",
+        "model": "claude-opus-4-5-20251101-cc"
+    },
+    "gpt4o": {
+        "base_url": "https://vip.dmxapi.com/v1",
+        "api_version": "2024-03-01-preview", 
+        "api_key": "sk-nxTM7Y4jqlxkDz2BQcoZEhlUd3S3CBOEzlVckl1GdWcM4Lol",
+        "model": "gpt-4o"
+    },
+    "iconfinder": {
+        "api_key": "YOUR_ICONFINDER_KEY"
+    }
+}
