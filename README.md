@@ -1,4 +1,7 @@
+
 1. Requirements
+安装ffmpeg，miktex，找一下别人的博客
+
 cd src/
 pip install -r requirements.txt
 
@@ -25,3 +28,7 @@ Generates a video from a single **knowledge point** specified in the script.
 ```bash
 sh run_agent_single.sh --knowledge_point "Linear transformations and matrices"
 ```
+
+
+
+
